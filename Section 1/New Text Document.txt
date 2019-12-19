@@ -1,0 +1,11 @@
+Download Shortcuts
+Take VS shortcuts here httpvisualstudioshortcuts.com2017
+
+Take R# shortcuts here
+
+https1drv.msbs!AqtQeAOHZEjQt5pdUdfjXxzAmHp8QA (VS scheme)
+
+https1drv.msbs!AqtQeAOHZEjQt5peqv3m0NYMI9KafA (IDEA scheme)
+
+There are two schemes in R#. VS is for those who never worked with R#, IDEA is for those who either worked with IntelliJ IDEA IDE for Java developers or those who worked with R# of older versions. In this course, I'll demonstrate you the latter.
+
